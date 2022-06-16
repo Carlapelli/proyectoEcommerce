@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,800;1,100;1,400;1,700&family=Nunito:ital,wght@0,400;0,600;1,200&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sticky {
+    position: sticky !important;
+    top: 0;
+    width: 100%;
+    padding-top: 0px;
+    width: 100%;
+    z-index: 2;
+}
+
+nav {
+    overflow: hidden;
+    background-color: rgb(253, 243, 245);
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    float: left;
+    padding: 14px;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    color: palevioletred;
+    margin: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: palevioletred;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    gap: 5px;
+}
+
+#contenedorProductos {
+    flex-wrap: wrap;
+}
+
+.contenedorDisenos {
+    display: flex;
+    justify-content: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5px;
+    gap: 5px;
+}
+
+.contendorAllCards {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: black;
+    margin-top: 30px;
+    text-align: center;
+}
+
+strong {
+    color: palevioletred;
+}
+
+.contenedorProductos {
+    padding-top: 3%;
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 500px;
+    width: 400px;
+    margin: 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: center;
+    flex-wrap: wrap;
+}
+
+.card-img {
+    height: 280px;
+    width: 180px;
+}
+
+.img-disenos {
+    height: 220px;
+    width: 180px;
+}
+
+.titulo {
+    color: rgb(83, 80, 80);
+    font-weight: 800;
+}
+
+.card-precio {
+    font-weight: 500;
+    color: rgb(83, 80, 80);
+}
+
+.contenedorBotones {
+    display: flex;
+}
+
+.btn {
+    margin: 10px;
+    color: white;
+}
+
+.imgflor {
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin: 0;
+}
+
+.carrito {
+    background-color: rgb(245, 236, 236);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    margin-bottom: 10px;
+}
+
+.botonesFinalCarrito{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}

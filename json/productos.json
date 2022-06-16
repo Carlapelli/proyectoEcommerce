@@ -1,0 +1,127 @@
+[{
+    "id": 1,
+    "type": "Nadar",
+    "size": "20 x 30",
+    "price": 2500,
+    "img": "../imgs/animales/caballito.jpg"
+},
+{
+    "id": 2,
+    "type": "Bañar",
+    "size": "20 x 30",
+    "price": 2500,
+    "img": "../imgs/animales/cerdo.jpg"
+},
+{
+    "id": 3,
+    "type": "Correr",
+    "size": "20 x 30",
+    "price": 2500,
+    "img": "../imgs/animales/conejo.jpg"
+},
+{
+    "id": 4,
+    "type": "Mirar",
+    "size": "20 x 30",
+    "price": 2500,
+    "img": "../imgs/animales/jirafa.jpg"
+},
+{
+    "id": 5,
+    "type": "Cantar",
+    "size": "20 x 30",
+    "price": 2500,
+    "img": "../imgs/animales/pajaro.jpg"
+},
+{
+    "id": 6,
+    "type": "Aullar",
+    "size": "20 x 30",
+    "price": 2500,
+    "img": "../imgs/animales/zorro.jpg"
+},
+{
+    "id": 7,
+    "type": "Pensar",
+    "size": "30 x 50",
+    "price": 4500,
+    "img": "../imgs/personas/escaleras.jpg"
+},
+{
+    "id": 8,
+    "type": "Admirar",
+    "size": "30 x 50",
+    "price": 4500,
+    "img": "../imgs/personas/capelina.jpg"
+},
+{
+    "id": 9,
+    "type": "Reflexionar",
+    "size": "30 x 50",
+    "price": 4500,
+    "img": "../imgs/personas/nikes.jpg"
+},
+{
+    "id": 10,
+    "type": "Confiar",
+    "size": "30 x 50",
+    "price": 4500,
+    "img": "../imgs/personas/pollera.jpg"
+},
+{
+    "id": 11,
+    "type": "Simpatizar",
+    "size": "30 x 50",
+    "price": 4500,
+    "img": "../imgs/personas/flor.jpg"
+},
+{
+    "id": 12,
+    "type": "Relajar",
+    "size": "30 x 50",
+    "price": 4500,
+    "img": "../imgs/personas/tacos.jpg"
+},
+{
+    "id": 13,
+    "type": "Rojo",
+    "size": "15 x 21",
+    "price": 1500,
+    "img": "../imgs/flores/fucsia.jpg"
+},
+{
+    "id": 14,
+    "type": "Azul",
+    "size": "15 x 21",
+    "price": 1500,
+    "img": "../imgs/flores/azul.jpg"
+},
+{
+    "id": 15,
+    "type": "Verde",
+    "size": "15 x 21",
+    "price": 1500,
+    "img": "../imgs/flores/hoja.jpg"
+},
+{
+    "id": 16,
+    "type": "Violeta",
+    "size": "15 x 21",
+    "price": 1500,
+    "img": "../imgs/flores/violeta.jpg"
+},
+{
+    "id": 17,
+    "type": "Rosa",
+    "size": "15 x 21",
+    "price": 1500,
+    "img": "../imgs/flores/rosas.jpg"
+},
+{
+    "id": 18,
+    "type": "Amarillo",
+    "size": "15 x 21",
+    "price": 1500,
+    "img": "../imgs/flores/amarillo.jpg"
+}
+]
